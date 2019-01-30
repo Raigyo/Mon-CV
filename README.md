@@ -10,17 +10,6 @@ Aim of the exercice:
 
 
 
-<!doctype html>
-<html lang="fr">
-<head>
-  <meta charset="utf-8">
-  <title>CV Vincent Chilot</title>
-   <link rel="stylesheet" type="text/css" href="style.css">
-  <!--[if lt IE 9]>
-  <script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
-  <![endif]-->
-
-</head>
 <body>
 <h1>CV de Vincent Chilot</h1>
 <header class="grid-container-head">
