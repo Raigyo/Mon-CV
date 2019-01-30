@@ -19,38 +19,7 @@ Aim of the exercice:
   <!--[if lt IE 9]>
   <script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
   <![endif]-->
-  <style>
-  body{
-    margin: 25px;
-  }
-  h1{
-    font-size: 30px;
-  }
-  h2{
-    font-size: 22px;
-  }
-  .grid-container-head {
-    width: 80%;
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    grid-template-rows: 1fr;
-    grid-template-areas: "boxH1 boxH2";
-    grid-template-columns: 25% 75%;
-  }
-  .grid-container-section {
-    width: 80%;
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    grid-template-rows: 1fr;
-    grid-template-areas: "box1 box1" "box2 box3";
-    grid-template-columns: 25% 75%;
-  }
-  .boxH1 { grid-area: boxH1; }
-  .boxH2 { grid-area: boxH2; }
-  .box1 { grid-area: box1; }
-  .box2 { grid-area: box2; }
-  .box3 { grid-area: box3; }
-  </style>
+
 </head>
 <body>
 <h1>CV de Vincent Chilot</h1>
