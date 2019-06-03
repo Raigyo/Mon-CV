@@ -13,4 +13,6 @@
 
 ## Note
 
-This CV is not up-to-date. This page was made for training purpose only You can see my real CV on [LinkedIn](https://www.linkedin.com/in/vincent-chilot/)
+This CV is not up-to-date and never will. This page was made for training purpose only.
+
+You can see my **real CV** on **[LinkedIn](https://www.linkedin.com/in/vincent-chilot/)**
